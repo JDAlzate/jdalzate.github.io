@@ -1,0 +1,23 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const toc = document.querySelector("nav.toc");
+  if (!toc) return;
+
+  const header = toc.querySelector(".nav__title");
+
+  header.style.cursor = "pointer";
+  header.addEventListener("click", () => {
+    const isVisible = toc.querySelector(".toc__menu").style.display !== "none";
+
+    if (isVisible) {
+      toc.querySelector(".toc__menu").style.display = "none";
+      document.body.classList.remove("narrow");
+      document.body.classList.add("wide");
+    } else {
+      toc.querySelector(".toc__menu").style.display = "";
+      document.body.classList.remove("wide");
+      document.body.classList.add("narrow");
+    }
+  });
+});
+</script>

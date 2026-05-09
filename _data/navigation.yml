@@ -1,0 +1,24 @@
+main:
+  - title: "GAS Documentation"
+    url: /docs/gas/about_gas_documentation/
+
+gas_docs:
+  - title: "Before Starting"
+    children:
+      - title: "0. About This Documentation"
+        url: /docs/gas/about_gas_documentation/
+  
+  - title: "GAS Documentation"
+    children:
+      - title: "1. What is the Gameplay Ability System"
+        url: /docs/gas/what_is_gas/
+      - title: "2. Ability System Component"
+        url: /docs/gas/ability_system_component/
+      - title: "3. Gameplay Tags"
+        url: /docs/gas/gameplay_tags/
+      - title: "4. Attribute Sets"
+        url: /docs/gas/attribute_sets/
+      - title: "5. Gameplay Effects"
+        url: /docs/gas/gameplay_effects/
+      - title: "6. Gameplay Abilities"
+        url: /docs/gas/gameplay_abilities/
