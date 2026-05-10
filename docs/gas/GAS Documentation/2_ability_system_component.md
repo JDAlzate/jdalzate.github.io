@@ -5,7 +5,7 @@ permalink: /docs/gas/ability_system_component/
 toc: true
 toc_sticky: true
 sidebar:
-	nav: gas_docs
+  nav: gas_docs
 ---
 GAS uses the **Ability System Component** (ASC) to mark an actor as being _part of_ the Gameplay Ability System framework. Naturally, the most important actor to use an ASC is your player character.
 

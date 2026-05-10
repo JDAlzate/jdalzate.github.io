@@ -4,7 +4,7 @@ permalink: /docs/gas/what_is_gas/
 toc: true
 toc_sticky: true
 sidebar:
-    nav: gas_docs
+  nav: gas_docs
 ---
 One of the definitions that Epic has provided for the Gameplay Ability System is the following:
 

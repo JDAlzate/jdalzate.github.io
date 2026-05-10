@@ -5,7 +5,7 @@ permalink: /docs/gas/attribute_sets/
 toc: true
 toc_sticky: true
 sidebar:
-    nav: gas_docs
+  nav: gas_docs
 ---
 Attribute Sets (AS) store attributes for a given Ability System Component. The way to associate attribute sets with an ASC is simply to create them both as default subobjects on the owner class of the ASC.
 

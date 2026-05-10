@@ -5,7 +5,7 @@ permalink: /docs/gas/gameplay_abilities/
 toc: true
 toc_sticky: true
 sidebar:
-    nav: gas_docs
+  nav: gas_docs
 ---
 
 Gameplay Abilities (GAs) are _actions_ or _skills_ that an actor can perform in the game. It defines what an ability _does_ and _under which conditions_ the ability can happen.

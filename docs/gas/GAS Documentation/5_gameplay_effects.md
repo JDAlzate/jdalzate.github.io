@@ -5,7 +5,7 @@ permalink: /docs/gas/gameplay_effects/
 toc: true
 toc_sticky: true
 sidebar:
-	nav: gas_docs
+  nav: gas_docs
 ---
 Gameplay Effects (GEs) change attributes and gameplay tags on application, following a set of configurable rules. They are data-only, which means we don't add logic to gameplay effects, we just set up the already existing properties.
 

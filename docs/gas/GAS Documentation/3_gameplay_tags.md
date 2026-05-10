@@ -5,7 +5,7 @@ permalink: /docs/gas/gameplay_tags/
 toc: true
 toc_sticky: true
 sidebar:
-    nav: gas_docs
+  nav: gas_docs
 ---
 Gameplay Tags are not exclusive to GAS, but they are essential to this framework and used extensively.
 
