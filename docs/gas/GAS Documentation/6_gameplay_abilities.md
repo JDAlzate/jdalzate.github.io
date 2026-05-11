@@ -13,7 +13,7 @@ Gameplay Abilities (GAs) are _actions_ or _skills_ that an actor can perform in 
 Instead of tightly coupling abilities by defining them as functions inside the actor that wants to execute it, GAs provide a self contained object that define how the ability is executed.
 
 Here are some of the benefits of using Gameplay Abilities instead of custom systems:
-1. The are **replicated** and **network-predicted** out of the box.
+1. They are **replicated** and **network-predicted** out of the box.
 2. They run "asynchronously" since multiple instances of a gameplay ability can be running simultaneously and multiple ability tasks can be active at any given time.
 3. Abilities can handle their own internal states, so they can run for any amount of time without any concern from the actor that executes them.
 4. They have a built-in concept of **cost** and **cooldown**, plus many other features that tie directly to other GAS systems.
