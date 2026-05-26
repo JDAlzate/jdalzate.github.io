@@ -22,3 +22,9 @@ gas_docs:
         url: /docs/gas/gameplay_effects/
       - title: "6. Gameplay Abilities"
         url: /docs/gas/gameplay_abilities/
+      - title: "7. Ability Tasks"
+        url: /docs/gas/ability_tasks
+      - title: "8. Gameplay Events"
+        url: /docs/gas/gameplay_events
+      - title: "9. Target Data"
+        url: /docs/gas/target_data
